@@ -28,3 +28,4 @@ Here are some ideas to get you started:
 
 #### Some Quick Stats on Github!
 [![Cheryl's's GitHub stats](https://github-readme-stats.vercel.app/api?username=cherylstanley&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cherylstanley)](https://github.com/anuraghazra/github-readme-stats)
