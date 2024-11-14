@@ -25,6 +25,6 @@ Here are some ideas to get you started:
 - 👩🏽‍💻 Worked as an Undergraduate Researcher investigating Fairness in ML from 2023-2024 in the Jeong Lab at UCSB
 - 💬 You can reach me via email at: cherylstanley28@gmail.com
 - ✨ Connect with me on Linkedin!: http://linkedin.com/in/cheryl-stanley-757635139/
-### Some statistics
+
 
 [![Cheryl's's GitHub stats](https://github-readme-stats.vercel.app/api?username=cherylstanley&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
