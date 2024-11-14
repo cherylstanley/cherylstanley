@@ -27,5 +27,5 @@ Here are some ideas to get you started:
 - ✨ Connect with me on Linkedin!: http://linkedin.com/in/cheryl-stanley-757635139/
 
 #### Some Quick Stats on Github!
-[![Cheryl's's GitHub stats](https://github-readme-stats.vercel.app/api?username=cherylstanley&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cherylstanley)](https://github.com/anuraghazra/github-readme-stats)
+[![Cheryl's's GitHub stats](https://github-readme-stats.vercel.app/api?username=cherylstanley&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&layout=compact&theme=radical)
