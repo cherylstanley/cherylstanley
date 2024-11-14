@@ -26,5 +26,5 @@ Here are some ideas to get you started:
 - 💬 You can reach me via email at: cherylstanley28@gmail.com
 - ✨ Connect with me on Linkedin!: http://linkedin.com/in/cheryl-stanley-757635139/
 
-### Some Quick Stats on Github!
+#### Some Quick Stats on Github!
 [![Cheryl's's GitHub stats](https://github-readme-stats.vercel.app/api?username=cherylstanley&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
