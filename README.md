@@ -1,6 +1,6 @@
 ## Hi there, my name is Cheryl Stanley👋
 
-I am currently pursuing my Master's degree in Computer Science and Engineering at UCSD.
+I am currently pursuing my Master's degree in Computer Science at UCSD. I did my Bachelor's in Computer Engineering at UCSB. 🌊
 
 <!--
 **cherylstanley/cherylstanley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,5 +26,5 @@ Here are some ideas to get you started:
 - 💬 You can reach me via email at: cherylstanley28@gmail.com
 - ✨ Connect with me on Linkedin!: http://linkedin.com/in/cheryl-stanley-757635139/
 
-#### Some Quick Stats on Github
+#### Some Quick Stats on Github!
 [![Cheryl's's GitHub stats](https://github-readme-stats.vercel.app/api?username=cherylstanley&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
