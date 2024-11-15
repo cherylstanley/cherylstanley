@@ -1,6 +1,6 @@
 ## Hi there, my name is Cheryl Stanley👋
 
-I am currently pursuing my Master's degree in Computer Science at UCSD. I did my Bachelor's in Computer Engineering at UCSB. 🌊
+I am currently pursuing my Master's degree in Computer Science at the University of California, San Diego. I did my Bachelor's in Computer Engineering at the University of California, Santa Barbara. 🌊
 
 <!--
 **cherylstanley/cherylstanley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
