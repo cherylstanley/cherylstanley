@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
  
 
-- 🌱 Link to personal portfolio: https://cherylstanley.github.io/CherylWebSite/
+- 🌱 Link to personal portfolio: https://cherylstanley.github.io/
 - 🌎 Worked as a Software Developer Intern at Lawrence Livermore National Laboratory from 2020-2023
 - 👩🏽‍💻 Worked as an Undergraduate Researcher investigating Fairness in ML from 2023-2024 in the Jeong Lab at UCSB
 - 💬 You can reach me via email at: cherylstanley28@gmail.com
